@@ -1,4 +1,5 @@
 # Ionic 4 realtime chatbot starter app with Pusher 
+![Version](https://img.shields.io/badge/version-alpha-green.svg)
 
 ## Getting Started
 
